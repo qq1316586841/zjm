@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# 张健铭/简历
 
-You can use the [editor on GitHub](https://github.com/qq1316586841/zjm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>在线简历：https://zjm1009.github.io/zjm/[https://zjm1009.github.io/zjm/]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 个人信息
 
-### Markdown
+- 张健铭/男/1998.10.09
+- 手机：13829358806 / Email：1316586841@qq.com
+- 专科/阳江职业技术学院信息工程系(2017~2020)
+- 工作年限：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Github：https://zjm1009.github.io/zjm/[https://zjm1009.github.io/zjm/]
+- 期望职位：
+- 期望薪资：
+- 期望城市：广东
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 技能清单
 
-- Bulleted
-- List
+> 熟练使用的技能
 
-1. Numbered
-2. List
+- 办公软件： Microsoft office/WPS office
+- 平面设计： photoshop
+- 安卓开发： Android studio 
+- Web开发： Windows:IIS/Nginx+PHP+MYSQL/SQL SERVER
+- 前端框架：Bootstrap
+- 自动化部署工具：Git
+- 编辑器：notepad++
 
-**Bold** and _Italic_ and `Code` text
+> 了解&使用过的技能
 
-[Link](url) and ![Image](src)
-```
+- HTML5/jsp/asp/python/
+- Java/C++/C#/Objective-C
+- SQLsever
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# 工作经历
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qq1316586841/zjm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 阳江职业技术学院	  ( 2017年9月 ~ )
 
-### Support or Contact
+> 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 主要项目
+
+- ### 网页设计/动态网页制作
+
+
+- ### 管理后台
+
+	主要特点：
+
+	- 使用wordpress框架
+	- 基于PHP开发
+	- PC端和手机端自适应，便于处理业务
+
+
+
+# 致谢 
+
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+
