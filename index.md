@@ -1,6 +1,7 @@
 # 张健铭/简历
 
 >在线简历：https://zjm1009.github.io/zjm/[https://zjm1009.github.io/zjm/]
+(https://bbs.xiaorun.ooo/ip/ip.png)
 
 # 个人信息
 
